@@ -14,7 +14,7 @@ import java.util.List;
 /**
  *
  */
-public class RocketMQTestConsumer {
+public class RocketMQPushTestConsumer {
 
     public static void main(String[] args) throws InterruptedException, MQClientException {
 
