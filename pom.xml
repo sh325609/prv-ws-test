@@ -11,6 +11,7 @@
     <modules>
         <module>ws-test-rocketmq</module>
         <module>ws-test-jstorm</module>
+        <module>ws-test-springboot</module>
     </modules>
 
     <build>
