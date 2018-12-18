@@ -13,6 +13,7 @@
         <module>ws-test-jstorm</module>
         <module>ws-test-springboot</module>
         <module>ws-test-combine</module>
+        <module>ws-test-springboot-nonweb</module>
     </modules>
 
     <build>
